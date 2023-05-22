@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e69f1583-8cb4-4568-9fad-7276d57fc5f7" name="Changes" comment="" />
+    <list default="true" id="3dfb9217-204a-45bb-bc84-a903a3e1709f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2Q7Nh0eNBfP8NAbKi4LqRcxrWrb" />
+  <component name="ProjectId" id="2Q7R0rJnWNsfQTLYlpCQeHN7Rry" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,11 +20,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e69f1583-8cb4-4568-9fad-7276d57fc5f7" name="Changes" comment="" />
-      <created>1684700776994</created>
+      <changelist id="3dfb9217-204a-45bb-bc84-a903a3e1709f" name="Changes" comment="" />
+      <created>1684702413073</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1684700776994</updated>
+      <updated>1684702413073</updated>
     </task>
     <servers />
   </component>
